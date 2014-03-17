@@ -1,7 +1,9 @@
 /March 16, Denys Metelenko. File test_1.txt creation/
 /March 16, Denys Metelenko. File test_1.txt modification/
+/March 16, Denys Metelenko. Shared with Marj/
 
 test_1.txt
 test_1.txt modification
 
+Marj, I love you
 /March 16, Maryana_Bukhanets. File test_1.txt 
